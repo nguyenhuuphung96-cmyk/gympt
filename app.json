@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "GYM PT PRO",
+    "slug": "gym-pt-pro-offline",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#0B0D10"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.gymptpro.offline"
+    },
+    "android": {
+      "package": "com.gymptpro.offline"
+    },
+    "plugins": [
+      "@react-native-async-storage/async-storage"
+    ]
+  }
+}
